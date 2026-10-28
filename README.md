@@ -1,6 +1,6 @@
 # Hi, I'm Naël 
 
-I'm a Biotechnology & Bioinformatics Engineering student at INSA Lyon.
+I'm a Biotechnology & Bioinformatics Engineering student.
 
 ### Interests
 
